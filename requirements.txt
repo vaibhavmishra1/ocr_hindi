@@ -1,0 +1,10 @@
+opencv-python
+numpy
+syspath
+imutils
+argparse
+matplotlib
+keras
+os-win
+mnist
+tensorflow
