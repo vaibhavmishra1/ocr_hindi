@@ -101,6 +101,9 @@ References:
 2-https://www.nist.gov/itl/iad/image-group/emnist-dataset
 3-https://arxiv.org/abs/1702.05373v1
 4-https://keras.io/datasets/
+5-https://www.sciencedirect.com/science/article/pii/S0031320318302590
+6-https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
+7-https://github.com/ankanbhunia/AttenScriptNetPR
 
 By-Vaibhav Mishra
 IIT Jodhpur
